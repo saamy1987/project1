@@ -1,11 +1,11 @@
-﻿6/20 15:52:35.701 (2f44)  StarBurn Development Kit for Windows  Version V15.4 'Patriot' ( 0x20150306 )
+﻿I Love you is just not 3 words from a man .. it means a lot
+
+6/20 15:52:35.701 (2f44)  StarBurn Development Kit for Windows  Version V15.4 'Patriot' ( 0x20150306 )
 
 Copyright (c) Rocket Division Software 2001-2016. All rights reserved.
 
 Copyright (c) StarBurn Software 2009-2016. All rights reserved.
 
-Started - Mon Jun 20 15:52:35 2016
-.
 
 6/20 15:52:35.702 (2f44)  License number: 7651, licensed to Desmond_Wondershare_Software_Co.,_Ltd.__-SDK_PRO_15.4_StarBurnSDK_v15_License_Key on Fri Jun 12 13:21:47 2015
 Please report all licensing violations to info@starburnsoftware.com software piracy fighting team.
